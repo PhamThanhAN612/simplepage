@@ -132,7 +132,7 @@ export default function CareersSection() {
             <div className="absolute inset-0 bg-gradient-to-tr from-black/60 via-transparent to-transparent" />
             <div className="absolute top-4 right-4">
               <div className="rounded-full bg-white/10 backdrop-blur-sm px-3 py-1 text-xs font-medium text-white/80">
-                NDQ Games HQ
+                PTA Games HQ
               </div>
             </div>
           </div>
